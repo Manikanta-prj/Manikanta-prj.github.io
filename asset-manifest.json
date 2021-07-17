@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Manikanta-prj.github.io/static/css/main.5739ad41.chunk.css",
+    "main.js": "/Manikanta-prj.github.io/static/js/main.8544d978.chunk.js",
+    "main.js.map": "/Manikanta-prj.github.io/static/js/main.8544d978.chunk.js.map",
+    "runtime-main.js": "/Manikanta-prj.github.io/static/js/runtime-main.5db0a245.js",
+    "runtime-main.js.map": "/Manikanta-prj.github.io/static/js/runtime-main.5db0a245.js.map",
+    "static/js/2.2a5fa1e2.chunk.js": "/Manikanta-prj.github.io/static/js/2.2a5fa1e2.chunk.js",
+    "static/js/2.2a5fa1e2.chunk.js.map": "/Manikanta-prj.github.io/static/js/2.2a5fa1e2.chunk.js.map",
+    "static/js/3.df4edcfe.chunk.js": "/Manikanta-prj.github.io/static/js/3.df4edcfe.chunk.js",
+    "static/js/3.df4edcfe.chunk.js.map": "/Manikanta-prj.github.io/static/js/3.df4edcfe.chunk.js.map",
+    "index.html": "/Manikanta-prj.github.io/index.html",
+    "static/css/main.5739ad41.chunk.css.map": "/Manikanta-prj.github.io/static/css/main.5739ad41.chunk.css.map",
+    "static/js/2.2a5fa1e2.chunk.js.LICENSE.txt": "/Manikanta-prj.github.io/static/js/2.2a5fa1e2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Manikanta-prj.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5db0a245.js",
+    "static/js/2.2a5fa1e2.chunk.js",
+    "static/css/main.5739ad41.chunk.css",
+    "static/js/main.8544d978.chunk.js"
+  ]
+}
